@@ -1,0 +1,1 @@
+bot_key ='1467191430:AAEtRtRetUdTIBc50WPptITR0tU-scpzQKs'
