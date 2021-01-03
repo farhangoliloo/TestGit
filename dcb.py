@@ -1,11 +1,9 @@
-'''This bot is a digital hub currency price notification bot  , Dcb0101 = Digital currency binary 0101 '''
 from telegram.ext import Updater , CommandHandler ,MessageHandler,Filters
 import requests
 import Bitcoin_Price
-import Bot_key
 from telegram import ReplyKeyboardMarkup
 
-updater = Updater(Bot_key.bot_key)            #save and start Token_bot
+updater = Updater('YOUR TOKEN')            #save and start Token_bot
 
 # start def bot
 
